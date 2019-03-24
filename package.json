@@ -1,0 +1,15 @@
+{
+  "name": "fileupload_to_googledrive",
+  "version": "1.0.0",
+  "description": "Upload file to google drive",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^27.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Babita Bisht",
+  "license": "MIT"
+}
